@@ -9,4 +9,4 @@ tags: [blog,test]
 
 This is the classic hello world to test the blog posting using Jelyll.
 
-This post was written in markdown.
+This post was written in markdown!

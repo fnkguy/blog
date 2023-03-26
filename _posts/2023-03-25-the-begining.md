@@ -1,11 +1,9 @@
 ---
-title: My First Story
+title: The begining before the begining
 date: 2023-03-25
 categories: [short-story]
 tags: [begining,coffee]
 ---
-
-# The begining before the begining
 
 > ### Is everything ready? Are the conditions met? Did someone thought ahead to make sure that no unnecessary steps must be taken?
 
